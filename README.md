@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning DSA by practicing LeetCode Problems
 - 📫 How to reach me:
-  -  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="22" /> [LinkedIn](https://www.linkedin.com/in/matejdragicevic/)
+  -  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" width="20" onclick="" /> [LinkedIn](https://www.linkedin.com/in/matejdragicevic/)
 
 <!--
 **MatejDragicevic/MatejDragicevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
