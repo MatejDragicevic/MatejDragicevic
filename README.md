@@ -9,6 +9,7 @@
   - 150 problems solved at 01.07.2022 (5 days 50 problems)
   - 200 problems solved at 09.07.2022 (8 days 50 problems)
   - Premium from 13.07.2022
+  - 250 problems solved at 24.08.2022 (47 days 50 problems) <- time off
   
 - 📫 How to reach me:
   -  <a href="#"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" width="20" onclick="" /></a> [LinkedIn](https://www.linkedin.com/in/matejdragicevic/)
