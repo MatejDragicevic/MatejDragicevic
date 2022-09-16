@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-- 🌱 I’m currently practicing DSA by solving LeetCode Problems
-  - checkout my currenty progress at [MatejDragicevic](https://leetcode.com/MatejDragicevic/)
   
 - 📫 How to reach me:
   -  <a href="#"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" width="20" onclick="" /></a> [LinkedIn](https://www.linkedin.com/in/matejdragicevic/)
